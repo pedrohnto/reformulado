@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "titulo": "teste",
+      "categoria": "",
+      "modelo": "",
+      "img": "",
+      "id": 1
+    },
+    {
+      "titulo": "teste",
+      "categoria": "2",
+      "modelo": "2",
+      "quantidade": "2",
+      "img": "",
+      "id": 2
+    },
+    {
+      "titulo": "teste",
+      "categoria": "2",
+      "modelo": "2",
+      "quantidade": "2",
+      "img": "",
+      "date": "2032-01-24T15:27:00.000Z",
+      "id": 3
+    }
+  ]
+}
